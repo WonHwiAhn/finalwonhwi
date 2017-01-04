@@ -1,1 +1,1 @@
-web: node /playrtc/index.js
+web: node app.js
